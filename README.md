@@ -1,7 +1,7 @@
 # book-search-MERN
 Wk 21 MERN challenge: Refactoring and updating previous code to be able to log in and save user books
 
-[Link to deployed Portfolio]()
+[Link to deployed Portfolio](https://book-search800.herokuapp.com)
 
 
 ![licenses](https://img.shields.io/badge/License-MIT_License-blue.svg)
@@ -20,7 +20,7 @@ npm i<br>
 npm start
 
 ## Usage
-![](/src/assets/images/screenshot.jpg)
+![](/images/screenshot.jpg)
 
 ## License
 ### This license is covered under the following license(s):
